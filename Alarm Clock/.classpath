@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/javax.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/multiplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sound.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/zipfs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
